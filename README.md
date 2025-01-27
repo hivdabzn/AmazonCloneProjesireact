@@ -1,4 +1,1 @@
 # AmazonCloneProjesi
-# amazoncloneprojesi
-# amazoncloneprojesi
-# amazoncloneprojesi
