@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/hivdabzn/AmazonCloneProjesireact/blob/88d0cdee48ba1e93ad4bec341102dbcacedbe2ba/EkranKayd2025-02-1321.00.45-ezgif.com-video-to-gif-converter.gif)
 # Amazon Clone Projesi
 
 Bu proje, React Native kullanarak oluşturulmuş bir Amazon klonudur. Kullanıcıların ürünleri görüntüleyebileceği, sepete ekleyebileceği ve ödeme yapabileceği bir e-ticaret uygulamasıdır.
